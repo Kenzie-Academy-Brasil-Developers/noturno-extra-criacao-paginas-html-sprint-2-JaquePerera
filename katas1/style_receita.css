@@ -1,1 +1,16 @@
 /* FOLHA DE ESTILO DA PAGINA DE RECEITAS */
+.titulos {
+    text-align:center;
+}
+
+.receita {
+	width: 150px;
+	display: inline-block;
+    text-align:center;
+}
+
+.link {
+	width: 150px;
+	display: inline-block;
+    text-align:center;
+}
