@@ -1,1 +1,6 @@
 /* FOLHA DE ESTILO DA PAGINA DE FORMULÁRIO */
+label {
+    color: blueviolet;
+    width: 150px;
+	display: inline-block;
+}
