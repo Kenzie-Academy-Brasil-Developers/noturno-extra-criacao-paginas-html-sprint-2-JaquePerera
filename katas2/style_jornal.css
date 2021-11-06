@@ -1,1 +1,14 @@
 /* FOLHA DE ESTILO DA PAGINA DE JORNAL */
+header {
+    text-align:center;
+}
+
+h3 {
+	color: blueviolet;
+    text-align:center;
+}
+
+p.artigo {
+	width: 150px;
+	display: inline-block;
+}
